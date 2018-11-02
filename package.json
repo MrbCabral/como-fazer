@@ -1,0 +1,17 @@
+{
+  "name": "como-fazer",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido no Workshop Fullstack Lab do DevPleno",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Miguel Cabral",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
